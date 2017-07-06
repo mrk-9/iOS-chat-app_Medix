@@ -1,0 +1,65 @@
+Addiction medicine
+Anaesthesia
+Dermatology
+Emergency medicine
+General practice
+Intensive care
+Obstetrics and gynaecology
+Ophthalmology
+Paediatrics - Cardiology
+Paediatrics - Clinical genetics
+Paediatrics - Clinical pharmacology
+Paediatrics - Community child health
+Paediatrics - Emergency medicine
+Paediatrics - Endocrinology
+Paediatrics - Gastroenterology and hepatology
+Paediatrics - General
+Paediatrics - Haematology
+Paediatrics - Immunology and allergy
+Paediatrics - Infectious diseases
+Paediatrics - Intensive care
+Paediatrics - Medical oncology
+Paediatrics - Neonatal and perinatal medicine
+Paediatrics - Nephrology
+Paediatrics - Neurology
+Paediatrics - Nuclear medicine
+Paediatrics - Palliative medicine
+Paediatrics - Rehabilitation medicine
+Paediatrics - Respiratory and sleep medicine
+Paediatrics - Rheumatology
+Pain medicine
+Pathology
+Physician - Cardiology
+Physician - Clinical genetics
+Physician - Clinical pharmacology
+Physician - Endocrinology
+Physician - Gastroenterology and hepatology
+Physician - General
+Physician - Geriatric medicine
+Physician - Haematology
+Physician - Immunology and allergy
+Physician - Infectious diseases
+Physician - Medical oncology
+Physician - Nephrology
+Physician - Neurology
+Physician - Nuclear medicine
+Physician - Palliative medicine
+Physician - Respiratory and sleep medicine
+Physician - Rheumatology
+Psychiatry
+Radiation oncology
+Radiology
+Rehabilitation medicine
+Sexual health medicine
+Sport and exercise medicine
+Surgery - Cardio-thoracic
+Surgery - General
+Surgery - Neurosurgery
+Surgery - Oral and maxillofacial
+Surgery - Orthopaedic
+Surgery - Otolaryngology
+Surgery - Paediatric
+Surgery - Plastics
+Surgery - Urology
+Surgery - Vascular
+Other

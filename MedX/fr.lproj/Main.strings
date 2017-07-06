@@ -1,0 +1,321 @@
+
+/* Class = "UILabel"; text = "Stephenson"; ObjectID = "0Mn-kN-dN1"; */
+"0Mn-kN-dN1.text" = "Stephenson";
+
+/* Class = "UILabel"; text = "Please enter PIN to sign in. You can also choose the period of inactivity before MedX automatically logs out."; ObjectID = "0p7-Kv-Xd7"; */
+"0p7-Kv-Xd7.text" = "Please enter PIN to sign in. You can also choose the period of inactivity before MedX automatically logs out.";
+
+/* Class = "UITextField"; text = "Dr."; ObjectID = "1YC-0V-Sq9"; */
+"1YC-0V-Sq9.text" = "Dr.";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "30H-Wt-c7J"; */
+"30H-Wt-c7J.text" = "Password";
+
+/* Class = "UIViewController"; title = "Welcome"; ObjectID = "3eB-9p-KZI"; */
+"3eB-9p-KZI.title" = "Welcome";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "4Di-rJ-bJm"; */
+"4Di-rJ-bJm.text" = "About";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "4Qm-vu-Fgf"; */
+"4Qm-vu-Fgf.text" = "About";
+
+/* Class = "UILabel"; text = "name cannot be blank"; ObjectID = "51K-yi-MWT"; */
+"51K-yi-MWT.text" = "name cannot be blank";
+
+/* Class = "UITextField"; placeholder = "Logout after 1 day inactivity"; ObjectID = "5Ke-rz-1EK"; */
+"5Ke-rz-1EK.placeholder" = "Logout after 1 day inactivity";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "5aG-MO-n6b"; */
+"5aG-MO-n6b.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Security"; ObjectID = "6Jn-JT-aaw"; */
+"6Jn-JT-aaw.text" = "Security";
+
+/* Class = "UILabel"; text = "Your details provided do not match the AHPRA register. Please check your information before trying again."; ObjectID = "6Or-Zr-wwh"; */
+"6Or-Zr-wwh.text" = "Your details provided do not match the AHPRA register. Please check your information before trying again.";
+
+/* Class = "UILabel"; text = "No matches, please extend search criteria."; ObjectID = "6oE-dY-IJi"; */
+"6oE-dY-IJi.text" = "No matches, please extend search criteria.";
+
+/* Class = "UILabel"; text = "MedX is only available for AHPRA registered doctors. To start using this app, please enter the 6 character registration code you will have received by SMS or fax."; ObjectID = "76e-FG-X71"; */
+"76e-FG-X71.text" = "MedX is only available for AHPRA registered doctors. To start using this app, please enter the 6 character registration code you will have received by SMS or fax.";
+
+/* Class = "UITextField"; placeholder = "Postcode"; ObjectID = "7Hw-IM-M0B"; */
+"7Hw-IM-M0B.placeholder" = "Postcode";
+
+/* Class = "UILabel"; text = "By registering with MedX, you are"; ObjectID = "97M-qw-fZO"; */
+"97M-qw-fZO.text" = "By registering with MedX, you are";
+
+/* Class = "UIViewController"; title = "Register"; ObjectID = "9eh-Mt-fPf"; */
+"9eh-Mt-fPf.title" = "Register";
+
+/* Class = "UILabel"; text = "e.g. 04xxxxxxxx"; ObjectID = "AJM-ML-Oew"; */
+"AJM-ML-Oew.text" = "e.g. 04xxxxxxxx";
+
+/* Class = "UILabel"; text = "Invalid/Expired PIN"; ObjectID = "Agv-ih-JaB"; */
+"Agv-ih-JaB.text" = "Invalid/Expired PIN";
+
+/* Class = "UILabel"; text = "invalid registration code"; ObjectID = "AnE-3P-RLe"; */
+"AnE-3P-RLe.text" = "invalid registration code";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "BlV-YZ-uEk"; */
+"BlV-YZ-uEk.text" = "About";
+
+/* Class = "UILabel"; text = "password cannot be blank"; ObjectID = "BqD-jW-g9l"; */
+"BqD-jW-g9l.text" = "password cannot be blank";
+
+/* Class = "UITextField"; text = "Dr."; ObjectID = "ClW-Q5-Fqe"; */
+"ClW-Q5-Fqe.text" = "Dr.";
+
+/* Class = "UILabel"; text = "agreeing with the MedX"; ObjectID = "Ey5-Ap-bX8"; */
+"Ey5-Ap-bX8.text" = "agreeing with the MedX";
+
+/* Class = "UILabel"; text = "Note:"; ObjectID = "F2R-mU-nrf"; */
+"F2R-mU-nrf.text" = "Note:";
+
+/* Class = "UILabel"; text = "This user has not yet installed MedX, and will be alerted by fax about unread messages."; ObjectID = "F2h-Q4-NjM"; */
+"F2h-Q4-NjM.text" = "This user has not yet installed MedX, and will be alerted by fax about unread messages.";
+
+/* Class = "UIViewController"; title = "MedX Sign In"; ObjectID = "FSZ-Ya-WXc"; */
+"FSZ-Ya-WXc.title" = "MedX Sign In";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "Ghq-UA-HeR"; */
+"Ghq-UA-HeR.normalTitle" = "Sign In";
+
+/* Class = "UITextField"; placeholder = "Enter Code"; ObjectID = "H2h-d7-sLs"; */
+"H2h-d7-sLs.placeholder" = "Enter Code";
+
+/* Class = "UILabel"; text = "Note:"; ObjectID = "Hul-MX-IRn"; */
+"Hul-MX-IRn.text" = "Note:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hxg-l2-M2X"; */
+"Hxg-l2-M2X.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I2b-HS-EqY"; */
+"I2b-HS-EqY.text" = "Label";
+
+/* Class = "UITextField"; text = "Hugo"; ObjectID = "JrN-St-TSB"; */
+"JrN-St-TSB.text" = "Hugo";
+
+/* Class = "UILabel"; text = "09:55 AM"; ObjectID = "K4w-7D-jSZ"; */
+"K4w-7D-jSZ.text" = "09:55 AM";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "KQZ-zn-m37"; */
+"KQZ-zn-m37.text" = "Name";
+
+/* Class = "UILabel"; text = "name cannot be blank"; ObjectID = "KV7-7U-HIl"; */
+"KV7-7U-HIl.text" = "name cannot be blank";
+
+/* Class = "UILabel"; text = "passwords don't match"; ObjectID = "Klt-59-mgu"; */
+"Klt-59-mgu.text" = "passwords don't match";
+
+/* Class = "UILabel"; text = "Specialty"; ObjectID = "M9C-sM-5kX"; */
+"M9C-sM-5kX.text" = "Specialty";
+
+/* Class = "UIButton"; normalTitle = "Block User"; ObjectID = "MFZ-vH-30W"; */
+"MFZ-vH-30W.normalTitle" = "Block User";
+
+/* Class = "UIViewController"; title = "Verify PIN"; ObjectID = "Mhz-qo-OOF"; */
+"Mhz-qo-OOF.title" = "Verify PIN";
+
+/* Class = "UILabel"; text = "Mobile #"; ObjectID = "NiB-of-HZ3"; */
+"NiB-of-HZ3.text" = "Mobile #";
+
+/* Class = "UILabel"; text = "No messages"; ObjectID = "NuF-qB-Wfo"; */
+"NuF-qB-Wfo.text" = "No messages";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Oq2-pY-krP"; */
+"Oq2-pY-krP.text" = "Label";
+
+/* Class = "UILabel"; text = "mobile number cannot be blank"; ObjectID = "P9i-GE-0ym"; */
+"P9i-GE-0ym.text" = "mobile number cannot be blank";
+
+/* Class = "UILabel"; text = "Office details help other doctors"; ObjectID = "Q4O-pq-fxs"; */
+"Q4O-pq-fxs.text" = "Office details help other doctors";
+
+/* Class = "UILabel"; text = "Hugo Stephenson"; ObjectID = "QHk-2Y-ptc"; */
+"QHk-2Y-ptc.text" = "Hugo Stephenson";
+
+/* Class = "UIButton"; normalTitle = "  Distance from"; ObjectID = "R1K-VO-uey"; */
+"R1K-VO-uey.normalTitle" = "  Distance from";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Rl3-yo-tfo"; */
+"Rl3-yo-tfo.text" = "Name";
+
+/* Class = "UILabel"; text = "Specialty"; ObjectID = "SfZ-q2-Sce"; */
+"SfZ-q2-Sce.text" = "Specialty";
+
+/* Class = "UILabel"; text = "Confirm"; ObjectID = "T3p-Me-7qR"; */
+"T3p-Me-7qR.text" = "Confirm";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "TcY-ig-AIr"; */
+"TcY-ig-AIr.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "Mobile number"; ObjectID = "V9V-Wn-NYe"; */
+"V9V-Wn-NYe.text" = "Mobile number";
+
+/* Class = "UILabel"; text = "mobile number cannot be blank"; ObjectID = "VTg-xd-7Mz"; */
+"VTg-xd-7Mz.text" = "mobile number cannot be blank";
+
+/* Class = "UILabel"; text = "Specialty"; ObjectID = "Vva-oB-lE6"; */
+"Vva-oB-lE6.text" = "Specialty";
+
+/* Class = "UILabel"; text = "Specialty"; ObjectID = "XTI-UA-gbO"; */
+"XTI-UA-gbO.text" = "Specialty";
+
+/* Class = "UIButton"; normalTitle = "Add Office Location"; ObjectID = "XVl-fT-dwG"; */
+"XVl-fT-dwG.normalTitle" = "Add Office Location";
+
+/* Class = "UILabel"; text = "General Practice"; ObjectID = "Xn6-IO-Dd2"; */
+"Xn6-IO-Dd2.text" = "General Practice";
+
+/* Class = "UIButton"; normalTitle = "Verify Registration Code"; ObjectID = "YOe-zt-Bdi"; */
+"YOe-zt-Bdi.normalTitle" = "Verify Registration Code";
+
+/* Class = "UILabel"; text = "(optional)"; ObjectID = "YiM-V3-eo6"; */
+"YiM-V3-eo6.text" = "(optional)";
+
+/* Class = "UILabel"; text = "Practice description (optional)"; ObjectID = "Z3y-yv-z07"; */
+"Z3y-yv-z07.text" = "Practice description (optional)";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "ZDV-ZW-PbV"; */
+"ZDV-ZW-PbV.placeholder" = "Enter Password";
+
+/* Class = "UILabel"; text = "Locations"; ObjectID = "ZID-nE-iFc"; */
+"ZID-nE-iFc.text" = "Locations";
+
+/* Class = "UILabel"; text = "for security reasons, all messages older than seven(7) days are automatically destroyed."; ObjectID = "a1C-mN-oUc"; */
+"a1C-mN-oUc.text" = "for security reasons, all messages older than seven(7) days are automatically destroyed.";
+
+/* Class = "UILabel"; text = "Specialty"; ObjectID = "aLB-rg-TlV"; */
+"aLB-rg-TlV.text" = "Specialty";
+
+/* Class = "UIButton"; normalTitle = "Block User"; ObjectID = "aWu-oD-g36"; */
+"aWu-oD-g36.normalTitle" = "Block User";
+
+/* Class = "UILabel"; text = "30km"; ObjectID = "aco-uw-wOk"; */
+"aco-uw-wOk.text" = "30km";
+
+/* Class = "UITextField"; placeholder = "Enter Number"; ObjectID = "apX-fG-Htu"; */
+"apX-fG-Htu.placeholder" = "Enter Number";
+
+/* Class = "UILabel"; text = "In case you forget your password, what street did you grow up on?"; ObjectID = "ats-JH-WPM"; */
+"ats-JH-WPM.text" = "In case you forget your password, what street did you grow up on?";
+
+/* Class = "UILabel"; text = "password cannot be blank"; ObjectID = "bGL-hy-WhT"; */
+"bGL-hy-WhT.text" = "password cannot be blank";
+
+/* Class = "UILabel"; text = "Sort"; ObjectID = "c0e-4t-neR"; */
+"c0e-4t-neR.text" = "Sort";
+
+/* Class = "UIViewController"; title = "Verify"; ObjectID = "cWb-lj-dcc"; */
+"cWb-lj-dcc.title" = "Verify";
+
+/* Class = "UILabel"; text = "Offices"; ObjectID = "cgI-LF-8oh"; */
+"cgI-LF-8oh.text" = "Offices";
+
+/* Class = "UILabel"; text = "This user has not yet installed MedX, and will be alerted by fax about unread messages."; ObjectID = "dc9-2h-hzl"; */
+"dc9-2h-hzl.text" = "This user has not yet installed MedX, and will be alerted by fax about unread messages.";
+
+/* Class = "UILabel"; text = "6+ chars, letters & numbers"; ObjectID = "duJ-W6-5pB"; */
+"duJ-W6-5pB.text" = "6+ chars, letters & numbers";
+
+/* Class = "UIButton"; normalTitle = "Terms of Use"; ObjectID = "e9Y-rv-t2Z"; */
+"e9Y-rv-t2Z.normalTitle" = "Terms of Use";
+
+/* Class = "UILabel"; text = "Please enter your mobile number and password to send a 4-digit login PIN to your phone by SMS."; ObjectID = "eHG-Q1-vn0"; */
+"eHG-Q1-vn0.text" = "Please enter your mobile number and password to send a 4-digit login PIN to your phone by SMS.";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "ezA-dI-O2n"; */
+"ezA-dI-O2n.normalTitle" = "Sign In";
+
+/* Class = "UILabel"; text = "Your AHPRA surname cannot be changed"; ObjectID = "fPW-PA-qcK"; */
+"fPW-PA-qcK.text" = "Your AHPRA surname cannot be changed";
+
+/* Class = "UINavigationItem"; title = "Verify PIN"; ObjectID = "fgl-rL-7KU"; */
+"fgl-rL-7KU.title" = "Verify PIN";
+
+/* Class = "UINavigationItem"; title = "Verify"; ObjectID = "foG-aF-sWd"; */
+"foG-aF-sWd.title" = "Verify";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "h4K-bI-NsG"; */
+"h4K-bI-NsG.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "."; ObjectID = "hqE-dM-d4V"; */
+"hqE-dM-d4V.text" = ".";
+
+/* Class = "UILabel"; text = "Stephenson"; ObjectID = "lGG-4f-u3k"; */
+"lGG-4f-u3k.text" = "Stephenson";
+
+/* Class = "UILabel"; text = "Your AHPRA surname cannot be changed"; ObjectID = "lxx-6d-B9e"; */
+"lxx-6d-B9e.text" = "Your AHPRA surname cannot be changed";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mHb-So-boF"; */
+"mHb-So-boF.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "  A-Z"; ObjectID = "mRq-h5-9CS"; */
+"mRq-h5-9CS.normalTitle" = "  A-Z";
+
+/* Class = "UINavigationItem"; title = "Register"; ObjectID = "mpY-lp-fzb"; */
+"mpY-lp-fzb.title" = "Register";
+
+/* Class = "UITextField"; text = "Hugo"; ObjectID = "mzu-r5-mbG"; */
+"mzu-r5-mbG.text" = "Hugo";
+
+/* Class = "UIButton"; normalTitle = "Chat"; ObjectID = "nDc-Ml-lW2"; */
+"nDc-Ml-lW2.normalTitle" = "Chat";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "nSa-7L-bNG"; */
+"nSa-7L-bNG.text" = "Name";
+
+/* Class = "UILabel"; text = "Thank You"; ObjectID = "o15-Tk-oE1"; */
+"o15-Tk-oE1.text" = "Thank You";
+
+/* Class = "UINavigationItem"; title = "Sign In"; ObjectID = "oLr-Gz-ciE"; */
+"oLr-Gz-ciE.title" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Send Login PIN"; ObjectID = "p4R-9A-qNK"; */
+"p4R-9A-qNK.normalTitle" = "Send Login PIN";
+
+/* Class = "UITextField"; placeholder = "Enter PIN"; ObjectID = "rVv-2h-Iha"; */
+"rVv-2h-Iha.placeholder" = "Enter PIN";
+
+/* Class = "UILabel"; text = "Hi Hugo"; ObjectID = "reF-FZ-wbZ"; */
+"reF-FZ-wbZ.text" = "Hi Hugo";
+
+/* Class = "UILabel"; text = "Login PIN sent"; ObjectID = "th3-a8-eOg"; */
+"th3-a8-eOg.text" = "Login PIN sent";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "tkU-mS-niy"; */
+"tkU-mS-niy.normalTitle" = "Sign In";
+
+/* Class = "UILabel"; text = "Note:"; ObjectID = "tzh-42-qor"; */
+"tzh-42-qor.text" = "Note:";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "wIZ-ak-tSM"; */
+"wIZ-ak-tSM.title" = "Item";
+
+/* Class = "UILabel"; text = "find you by location."; ObjectID = "whU-dq-tv4"; */
+"whU-dq-tv4.text" = "find you by location.";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "xXY-DB-O5h"; */
+"xXY-DB-O5h.normalTitle" = "Sign In";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "xgK-k7-RiN"; */
+"xgK-k7-RiN.text" = "Password";
+
+/* Class = "UILabel"; text = "Offices"; ObjectID = "xt5-wz-T0A"; */
+"xt5-wz-T0A.text" = "Offices";
+
+/* Class = "UITextField"; placeholder = "Specialty"; ObjectID = "y0j-22-xZf"; */
+"y0j-22-xZf.placeholder" = "Specialty";
+
+/* Class = "UITextField"; text = "All Specialties"; ObjectID = "y0j-22-xZf"; */
+"y0j-22-xZf.text" = "All Specialties";
+
+/* Class = "UILabel"; text = "General Practice"; ObjectID = "y8R-K0-68L"; */
+"y8R-K0-68L.text" = "General Practice";
+
+/* Class = "UILabel"; text = "555"; ObjectID = "zpQ-Wc-5Xh"; */
+"zpQ-Wc-5Xh.text" = "555";

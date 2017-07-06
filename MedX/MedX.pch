@@ -1,0 +1,123 @@
+//
+//  MedX.pch
+//  MedX
+//
+//  Created by Anthony Zahra on 6/12/15.
+//  Copyright (c) 2015 Hugo. All rights reserved.
+//
+
+#ifndef MedX_MedX_pch
+#define MedX_MedX_pch
+
+
+#import <SystemConfiguration/SystemConfiguration.h>
+#import <MobileCoreServices/MobileCoreServices.h>
+#import <UIKit/UIKit.h>
+
+#import "AppDelegate.h"
+#import "MXBaseController.h"
+
+#import "MedXUser.h"
+#import "MXUser.h"
+#import "MXRelationship.h"
+#import "MXMessage.h"
+
+#import "MXUser+CoreDataProperties.h"
+
+#import "AppUtil.h"
+#import "ThemeUtil.h"
+#import "MXUserUtil.h"
+#import "MXMessageUtil.h"
+#import "MXRelationshipUtil.h"
+
+#import "ChatService.h"
+#import "CharactersEscapeService.h"
+#import "MIHRSAKeyFactory.h"
+#import "MIHKeyPair.h"
+#import "MIHRSAPublicKey.h"
+#import "MIHRSAPrivateKey.h"
+#import "MIHAESKeyFactory.h"
+#import "MIHAESKey.h"
+#import "NSData+Base64.h"
+#import "EncryptionUtil.h"
+
+#import "TCBlobDownload.h"
+#import "NBPhoneNumberUtil.h"
+
+#import <MagicalRecord/MagicalRecord.h>
+#import <MagicalRecord/MagicalRecord+ShorthandMethods.h>
+#import <MagicalRecord/MagicalRecordShorthandMethodAliases.h>
+
+#import "TWMessageBarManager.h"
+#import "SVProgressHUD.h"
+
+// URLs
+//#define BaseURL                                     @"http://192.168.0.139:4035/api/v1/"
+#define BaseURL                                     @""
+
+#define kMedXURL                                    @""
+#define kMedXTermsURL                               @""
+#define kMedXForgotURL                              @""
+
+// Internal Notification Constants
+#define kNotificationChatDidReceiveNewMessages                 @"kNotificationChatDidReceiveNewMessages"
+#define kNotificationChatDidReceiveNewDialogMessages           @"kNotificationChatDidReceiveNewDialogMessages"
+#define kNotificationChatDidNotDeliverMessage                  @"kNotificationChatDidNotDeliverMessage"
+#define kNotificationChatDidFailInCheckAllDialogs              @"kNotificationChatDidFailInCheckAllDialogs"
+
+// User status
+#define MX_USER_STATUS_VERIFIED         1
+
+// Message Status
+#define MX_MESSAGE_STATUS_UNCOLLECTED   0
+#define MX_MESSAGE_STATUS_SENT          1
+#define MX_MESSAGE_STATUS_READ          2
+#define MX_MESSAGE_STATUS_NOT_DELIVERED 100
+#define MX_MESSAGE_STATUS_DELIVERED     101
+
+// Message Type
+#define MX_MESSAGE_TYPE_TEXT            0
+#define MX_MESSAGE_TYPE_PHOTO           1
+
+// Message for encrypted messages with other device key
+#define MX_MESSAGE_TEXT_SENT_FOR_DIFFERENT_DEVICE   NSLocalizedString(@"texts.message_sent_different_device", nil)
+
+// Interval in seconds to check new incoming messages and read messages
+#define MX_DIALOG_CHECK_INTERVAL        2.0
+#define MX_REGULAR_CHECK_INTERVAL       3.0
+
+// Remote Notification Payload Type
+#define MX_REMOTE_NOTE_TYPE_NEW_MESSAGE         @"N"
+#define MX_REMOTE_NOTE_TYPE_READ_SENT_MESSAGE   @"R"
+
+// Current Showing View Names for Remote Notification Process
+#define MX_DIALOG_VIEW_INDEX            @"INDEX"
+#define MX_DIALOG_VIEW_CHAT             @"CHAT"
+#define MX_DIALOG_VIEW_SETTINGS         @"SETTINGS"
+
+// Time Interval Differences (in seconds)
+#define MX_TIME_INTERVAL_DIFF_MINUTE     60
+#define MX_TIME_INTERVAL_DIFF_HOUR       3600
+#define MX_TIME_INTERVAL_DIFF_DAY        86400
+#define MX_TIME_INTERVAL_DIFF_WEEK       604800
+
+// AWS constants
+#define AWS_COGNITO_POOL_ID             @""
+#define AWS_S3_BUCKET                   @""
+#define AWS_S3_BUCKET_TEMP_FOLDER       @""
+
+// macros
+#define RGB(r,g,b,a)                [UIColor colorWithRed:(double)r/255.0f green:(double)g/255.0f blue:(double)b/255.0f alpha:a]
+#define RGBHEX(rgbValue,a)          [UIColor colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 green:((float)((rgbValue & 0xFF00) >> 8))/255.0 blue:((float)(rgbValue & 0xFF))/255.0 alpha:a]
+
+// Alert View Messages
+#define MX_ALERT_NETWORK_ERROR                  NSLocalizedString(@"alert.network_error", nil)
+#define MX_ALERT_EXCEEDING_MAX_CHARS            NSLocalizedString(@"alert.exceeding_max_chars", nil)
+#define MX_ALERT_BLOCK                          NSLocalizedString(@"alert.block", nil)
+#define MX_ALERT_DELETE_CHAT(name)              [NSString stringWithFormat:NSLocalizedString(@"alert.delete_chat_name", nil), name]
+#define MX_ALERT_INVITE(fullName, shortName)    [NSString stringWithFormat:NSLocalizedString(@"alert.invite", nil), fullName, shortName]
+#define MX_ALERT_INVITE2(fullName)              [NSString stringWithFormat:NSLocalizedString(@"alert.invite2", nil), fullName]
+
+#define MX_ALERT_LOGIN_WITH_ANOTHER_DEVICE      NSLocalizedString(@"alert.login_with_another_device", nil)
+
+#endif
